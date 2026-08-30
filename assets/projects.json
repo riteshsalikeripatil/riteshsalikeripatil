@@ -1,0 +1,27 @@
+[
+  {
+    "repo": "Digital_locker_FSM_Verilog",
+    "title": "Digital Locker FSM",
+    "description": "PIN authentication, lockout handling, tamper detection and protected data access."
+  },
+  {
+    "repo": "ESP32-IoT-Development-Board",
+    "title": "ESP32 Development Board",
+    "description": "Custom development board with power, communication and peripheral interfaces."
+  },
+  {
+    "repo": "Character_Driver",
+    "title": "Linux Character Driver",
+    "description": "Character device, cdev, file operations and userspace/kernel communication."
+  },
+  {
+    "repo": "Custom_Memory_Manager",
+    "title": "Custom Memory Manager",
+    "description": "First-fit allocation, block splitting, coalescing and fragmentation analysis."
+  },
+  {
+    "repo": "C_Programming_Projects",
+    "title": "C Programming Projects",
+    "description": "A growing collection of practical C programming projects and exercises."
+  }
+]

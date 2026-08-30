@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420">
+<rect width="700" height="420" rx="24" fill="#0d1117"/>
+<text x="350" y="60" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#f0f6fc">GitHub Project Focus</text>
+<text x="70" y="120" font-family="Arial" font-size="20" fill="#e6edf3">C</text>
+<rect x="230" y="98" width="350" height="28" rx="14" fill="#21262d"/>
+<rect x="230" y="98" width="315.0" height="28" rx="14" fill="#58a6ff"/>
+<text x="610" y="120" font-family="Arial" font-size="18" fill="#8b949e">45%</text>
+<text x="70" y="178" font-family="Arial" font-size="20" fill="#e6edf3">Verilog</text>
+<rect x="230" y="156" width="350" height="28" rx="14" fill="#21262d"/>
+<rect x="230" y="156" width="140.0" height="28" rx="14" fill="#58a6ff"/>
+<text x="610" y="178" font-family="Arial" font-size="18" fill="#8b949e">20%</text>
+<text x="70" y="236" font-family="Arial" font-size="20" fill="#e6edf3">Python</text>
+<rect x="230" y="214" width="350" height="28" rx="14" fill="#21262d"/>
+<rect x="230" y="214" width="105.0" height="28" rx="14" fill="#58a6ff"/>
+<text x="610" y="236" font-family="Arial" font-size="18" fill="#8b949e">15%</text>
+<text x="70" y="294" font-family="Arial" font-size="20" fill="#e6edf3">KiCad/Hardware</text>
+<rect x="230" y="272" width="350" height="28" rx="14" fill="#21262d"/>
+<rect x="230" y="272" width="70.0" height="28" rx="14" fill="#58a6ff"/>
+<text x="610" y="294" font-family="Arial" font-size="18" fill="#8b949e">10%</text>
+<text x="70" y="352" font-family="Arial" font-size="20" fill="#e6edf3">Other</text>
+<rect x="230" y="330" width="350" height="28" rx="14" fill="#21262d"/>
+<rect x="230" y="330" width="70.0" height="28" rx="14" fill="#58a6ff"/>
+<text x="610" y="352" font-family="Arial" font-size="18" fill="#8b949e">10%</text>
+</svg>
