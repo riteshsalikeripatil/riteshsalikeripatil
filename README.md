@@ -42,7 +42,7 @@ I enjoy building practical projects that help me understand how hardware and sof
 <img src="https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge" alt="Verilog">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" alt="ESP32">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
@@ -55,7 +55,7 @@ Verilog • RTL Design • FSM • Combinational Logic • Sequential Logic • 
 ESP32 • ESP8266 • ATmega328P • UART • SPI • I2C • Sensor Interfacing
 
 ### Linux & Low-Level Development
-Linux • Kernel Modules • Character Device Drivers • `cdev` • `file_operations` • GCC • Make
+Linux • Kernel Modules • Character Device Drivers • file_operations • Make
 
 ### Hardware & PCB Design
 KiCad • Schematic Design • PCB Layout • Microcontroller Boards • Power Design
